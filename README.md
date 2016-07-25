@@ -294,7 +294,7 @@ API Muzis предоставляет следующие возможности:
 | 32329           | Hard Dance                   |
 | 32330           | EuroDance                    |
 | 32378           | Hardstyle                    |
-| 32315           | Liquid Trap (Жидкая ловушка) |
+| 32315           | Liquid Trap |
 | 32356           | Oldschool Techno & Trance    |
 | 32321           | Chillout                     |
 | 32392           | Disco House                  |
@@ -308,7 +308,7 @@ API Muzis предоставляет следующие возможности:
 | 32343           | Progressive Psy              |
 | 32344           | Bassline                     |
 | 32396           | Oldschool Acid               |
-| 32370           | Deep Tech (Глубокая техника) |
+| 32370           | Deep Tech |
 | 32331           | Vocal Lounge                 |
 | 32397           | Chill & Tropical House       |
 | 32393           | Classic EuroDisco            |
@@ -342,7 +342,7 @@ API Muzis предоставляет следующие возможности:
 | 32310           | Dub Techno                   |
 | 32311           | Glitch Hop                   |
 | 32312           | Future Beats                 |
-| 32371           | Tribal House (Племенной дом) |
+| 32371           | Tribal House                 |
 | 32377           | Space Dreams                 |
 | 32313           | Indie Dance                  |
 | 32384           | Hands Up                     |
